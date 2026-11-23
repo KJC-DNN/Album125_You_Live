@@ -21,3 +21,9 @@ You live. He alone remains. Come, Lord Jesus.
 1. GitHub: https://github.com/KJC-DNN/Album125_You_Live/releases/tag/125.0.0
 2. Archive: album-125-you-live-main-cover
 3. Zenodo: https://doi.org/10.5281/zenodo.24415391
+
+# Instrumental
+## Published
+1. GitHub: https://github.com/KJC-DNN/Album125_Instrumentals_You_Live/releases/tag/125.0.0
+2. Archive: album-125-instrumentals-you-live-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24465668
